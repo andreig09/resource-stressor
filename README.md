@@ -26,7 +26,7 @@ The bundled stack (Docker Compose) ships a fully wired observability environment
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/observability-poc.git
+git clone https://github.com/andreig09/resource-stressor.git
 cd observability-poc
 
 # 2. Build and start the full stack
